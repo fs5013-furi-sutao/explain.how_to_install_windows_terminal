@@ -21,7 +21,7 @@ Windows Terminal のマニフェストがある場所を探す:
 scoop search windows-terminal
 ```
 実行結果;
-```console
+```
 'extras' bucket:
     windows-terminal (1.3.2651.0)
 ```
