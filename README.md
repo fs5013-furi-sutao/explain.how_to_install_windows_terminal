@@ -35,7 +35,7 @@ scoop bucket list
 
 extras バケットが表示されない場合は、以下のコマンドでバケットを追加する。
 
-extras バケットを追加する。
+extras バケットを追加する:
 ```console
 scoop bucket add extras
 ```
